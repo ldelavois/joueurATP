@@ -10,7 +10,7 @@
         /// <summary>
         /// Nettoyage des ressources utilisées.
         /// </summary>
-        /// <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        /// <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -29,49 +29,35 @@
         private void InitializeComponent()
         {
             this.btnCharger = new System.Windows.Forms.Button();
-            this.btnAjouter = new System.Windows.Forms.Button();
             this.txtExcelFile = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
+            //
             // btnCharger
-            // 
-            this.btnCharger.Location = new System.Drawing.Point(21, 22);
+            //
+            this.btnCharger.Location = new System.Drawing.Point(24, 26);
             this.btnCharger.Name = "btnCharger";
-            this.btnCharger.Size = new System.Drawing.Size(213, 39);
+            this.btnCharger.Size = new System.Drawing.Size(131, 31);
             this.btnCharger.TabIndex = 0;
             this.btnCharger.Text = "Charger";
             this.btnCharger.UseVisualStyleBackColor = true;
             this.btnCharger.Click += new System.EventHandler(this.btnCharger_Click);
-            // 
-            // btnAjouter
-            // 
-            this.btnAjouter.Location = new System.Drawing.Point(553, 22);
-            this.btnAjouter.Name = "btnAjouter";
-            this.btnAjouter.Size = new System.Drawing.Size(236, 39);
-            this.btnAjouter.TabIndex = 1;
-            this.btnAjouter.Text = "Ajouter";
-            this.btnAjouter.UseVisualStyleBackColor = true;
-            this.btnAjouter.Click += new System.EventHandler(this.btnAjouter_Click);
-            // 
+            //
             // txtExcelFile
-            // 
-            this.txtExcelFile.Location = new System.Drawing.Point(254, 32);
+            //
+            this.txtExcelFile.Location = new System.Drawing.Point(241, 32);
             this.txtExcelFile.Name = "txtExcelFile";
-            this.txtExcelFile.Size = new System.Drawing.Size(277, 20);
-            this.txtExcelFile.TabIndex = 2;
-            //this.txtExcelFile.TextChanged += new System.EventHandler(this.txtExcelFile_TextChanged);
-            // 
+            this.txtExcelFile.Size = new System.Drawing.Size(264, 20);
+            this.txtExcelFile.TabIndex = 1;
+            //
             // joueurATP
-            // 
+            //
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 74);
+            this.ClientSize = new System.Drawing.Size(800, 82);
             this.Controls.Add(this.txtExcelFile);
-            this.Controls.Add(this.btnAjouter);
             this.Controls.Add(this.btnCharger);
             this.Name = "joueurATP";
             this.Text = "joueurATP";
-            this.Load += new System.EventHandler(this.joueurATP_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -80,8 +66,6 @@
         #endregion
 
         private System.Windows.Forms.Button btnCharger;
-        private System.Windows.Forms.Button btnAjouter;
         private System.Windows.Forms.TextBox txtExcelFile;
     }
 }
-

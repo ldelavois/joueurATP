@@ -9,3 +9,14 @@ C:\Users\ludovicd\source\repos\joueurATP\joueurATP\obj\Debug\joueurATP.csproj.Co
 C:\Users\ludovicd\source\repos\joueurATP\joueurATP\obj\Debug\joueurATP.exe
 C:\Users\ludovicd\source\repos\joueurATP\joueurATP\obj\Debug\joueurATP.pdb
 C:\Users\ludovicd\source\repos\joueurATP\joueurATP\obj\Debug\joueurATP.csproj.ResolveComReference.cache
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\bin\Debug\joueurATP.exe.config
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\bin\Debug\joueurATP.exe
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\bin\Debug\joueurATP.pdb
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.csprojAssemblyReference.cache
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.csproj.ResolveComReference.cache
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.joueurATP.resources
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.Properties.Resources.resources
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.csproj.GenerateResource.cache
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.csproj.CoreCompileInputs.cache
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.exe
+C:\Users\ludovicd\Documents\joueurATP\joueurATP\obj\Debug\joueurATP.pdb
